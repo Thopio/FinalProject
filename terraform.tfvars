@@ -1,0 +1,7 @@
+ami_id         = "ami-051f7e7f6c2f40dc1"
+db_name        = "wordpress_db"
+db_user        = "wp_user"
+db_password    = "ChangeMeAdmin123!"
+s3_bucket_name = "tu-bucket-custom-wp"
+name_prefix    = "wp-ha"
+aws_region     = "us-east-1"
